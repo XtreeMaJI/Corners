@@ -1,0 +1,202 @@
+﻿  BaseType.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\BaseType.cpp(8,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\BaseType.cpp(8,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  BotController.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(105,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(120,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(187,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(199,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(214,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(229,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(258,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(271,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(289,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(310,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(345,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(427,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(439,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(442,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\BotController.cpp(488,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Button.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\Button.cpp(12,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\Button.cpp(12,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\Button.cpp(32,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\Button.cpp(32,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Field.cpp
+  GameOverPanel.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\GameOverPanel.cpp(20,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameOverPanel.cpp(20,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameOverPanel.cpp(42,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameOverPanel.cpp(42,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameOverPanel.cpp(49,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\GameOverPanel.cpp(49,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameStartPanel.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(23,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(23,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(47,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(47,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(54,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(54,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(60,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStartPanel.cpp(60,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameStateManager.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStateManager.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStateManager.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStateManager.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\GameStateManager.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+  LevelManager.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\LevelManager.cpp(201,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\LevelManager.cpp(211,20): warning C4018: <: несоответствие типов со знаком и без знака
+  PausePanel.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(13,73): warning C4305: аргумент: усечение из "double" в "float"
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(25,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(25,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(49,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(49,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(56,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(56,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(61,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\PausePanel.cpp(61,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Piece.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\Piece.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\Piece.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\Piece.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\Piece.cpp(75,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\Piece.cpp(75,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Main.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\Main.cpp(11,45): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\Main.cpp(11,35): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  PlayerController.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(41,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(44,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(44,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(59,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(62,87): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\TestProjects\TestProject_v001\TestProject_v001\PlayerController.cpp(62,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Square.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\Square.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+  SquareSelection.cpp
+D:\TestProjects\TestProject_v001\TestProject_v001\SquareSelection.cpp(24,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\TestProjects\TestProject_v001\TestProject_v001\SquareSelection.cpp(25,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 442 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TestProject_v001.vcxproj -> D:\TestProjects\TestProject_v001\Release\TestProject_v001.exe
